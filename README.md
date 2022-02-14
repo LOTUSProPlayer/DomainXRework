@@ -1,8 +1,8 @@
 # Cheat Status
-## [Best Cheat Status](https://whatexploitsare.online/)
+[Best Cheat Status](https://whatexploitsare.online/)
 
 # Premium
-## Soon ;)
+Soon ;)
 
 # Credits:
 ## LOTUS - Highly edited version of Domain X
