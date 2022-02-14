@@ -1,8 +1,8 @@
 # [Cheat Status](https://whatexploitsare.online/)
 
 # Premium
-Soon ;)
+[Picking Random People](https://www.roblox.com/groups/8395021/)
 
 # Credits:
-## LOTUS - Highly edited version of Domain X
-## Shlex - The GUI
+## [LOTUS](https://discord.com/users/848259924844609607) - Highly edited version of Domain X
+## [Shlex](https://discord.com/users/837791888643588136) - The GUI
