@@ -2,11 +2,13 @@
 
 # Loadstrings:
 <details>
-           <summary>Sense Hub</summary>
-           <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/Sense%20Hub%20V1.lua"))();</p>
-         </details>
-### Sense Hub - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/Sense%20Hub%20V1.lua"))();
-### FPS Main - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/FPS%20Main.lua"))();
+  <summary>Sense Hub</summary>
+  <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/Sense%20Hub%20V1.lua"))();</p>
+</details>
+<details>
+  <summary>FPS Main</summary>
+  <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/FPS%20Main.lua"))();</p>
+</details>
 
 # Premium
 [Picking Random People](https://www.roblox.com/groups/8395021/r-Anime/)
