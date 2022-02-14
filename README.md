@@ -1,6 +1,10 @@
 # [Cheat Status](https://whatexploitsare.online/)
 
 # Loadstrings:
+<details>
+           <summary>Sense Hub</summary>
+           <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/Sense%20Hub%20V1.lua"))();</p>
+         </details>
 ### Sense Hub - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/Sense%20Hub%20V1.lua"))();
 ### FPS Main - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/FPS%20Main.lua"))();
 
