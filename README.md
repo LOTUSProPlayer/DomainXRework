@@ -1,8 +1,8 @@
 # [Cheat Status](https://whatexploitsare.online/)
 
 # Loadstrings:
-Sense Hub - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/Sense%20Hub%20V1.lua"))();
-FPS Main - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/FPS%20Main.lua"))();
+## Sense Hub - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/Sense%20Hub%20V1.lua"))();
+## FPS Main - loadstring(game:HttpGet("https://raw.githubusercontent.com/LOTUSProPlayer/Sense/main/FPS%20Main.lua"))();
 
 # Premium
 [Picking Random People](https://www.roblox.com/groups/8395021/r-Anime/)
