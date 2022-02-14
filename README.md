@@ -1,5 +1,4 @@
-# Cheat Status
-[Best Cheat Status](https://whatexploitsare.online/)
+# [Cheat Status](https://whatexploitsare.online/)
 
 # Premium
 Soon ;)
